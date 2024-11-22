@@ -1,9 +1,9 @@
-# 👋 Hi there, I'm [Rafael Nonato]! ✨
+# 👋 Hi there, I'm Rafael Nonato! ✨
 
 ### 👩‍💻 Sobre mim:
-- 💻 **[Analysis and Systems Development Student] at [FIAP].**
-- 💡 [Full Stack] enthusiast and always learning something new!
-- 🤖 Cofounder and Full Stack Developer at [Grupo ARC]. Currently working on [ViaMobility app and SolarMetrics website].
+- 💻 **Analysis and Systems Development Student at FIAP.**
+- 💡 Full Stack enthusiast and always learning something new!
+- 🤖 Cofounder and Full Stack Developer at Grupo ARC. Currently working on ViaMobility app and SolarMetrics website.
 - 💼 Currently looking for my first intership/junior developer opportunity.
 
 ---
