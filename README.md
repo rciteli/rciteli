@@ -6,7 +6,7 @@
 - 💼 Procurando por oportunidades Fullstack e/ou Front-End como freelancer, consultor ou por contrato.
 - Site ViaMobility: https://via-mobility-vercell-ybs9-git-main-csclementinos-projects.vercel.app
 - Site SolarMetrics: https://solarmetrics.siick.com.br
-- Site Conexão Anjo: https://conexao-anjo-vercell.vercel.app/
+- Site Conexão Anjo: [https://conexao-anjo-vercell.vercel.app/](https://conexao-anjo-vercell.vercel.app/TelaPrincipal)
 
 
 ---
