@@ -1,14 +1,15 @@
-# 👋 Hi there, I'm Rafael Nonato! ✨
+# 👋 Olá! Este é meu repositório. Me chamo Rafael Nonato. ✨
 
-### 👩‍💻 Sobre mim:
-- 💻 **Analysis and Systems Development Student at FIAP.**
-- 💡 Full Stack enthusiast and always learning something new!
-- 🤖 Cofounder and Full Stack Developer at Grupo ARC. Currently working on ViaMobility app and SolarMetrics website.
-- 💼 Currently looking for my first intership/junior developer opportunity.
+### 👩‍💻 Sobre mim e projetos:
+- 💻 **Estudante de Análise e Desenvolvimento de Sistemas na FIAP**
+- 🤖 Co-fundador e desenvolvedor Fullstack no Grupo ARC. Trabalhando atualmente no aplicativo ViaMobility e em outros projetos que ainda são segredo.
+- 💼 Procurando por oportunidades Fullstack e/ou Front-End como freelancer, consultor ou por contrato.
+- Site ViaMobility: https://via-mobility-vercell-ybs9-git-main-csclementinos-projects.vercel.app
+
 
 ---
 
-### 🛠️ Languages & Tools:
+### 🛠️ Linguagens & Ferramentas:
 <div>
 <img src="https://img.shields.io/badge/-React-FFFFFF?style=for-the-badge&logo=react&logoColor=61DAFB" />
 <img src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
