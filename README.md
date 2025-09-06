@@ -1,4 +1,4 @@
-# 👋 Olá! Este é meu repositório. Me chamo Rafael Nonato. ✨
+# 👋 - Portfolio de Rafael Nonato
 
 ### 👩‍💻 Sobre mim e projetos:
 - 💻 **Estudante de Análise e Desenvolvimento de Sistemas na FIAP**
