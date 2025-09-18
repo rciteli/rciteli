@@ -3,10 +3,14 @@
 ### 👩‍💻 Sobre mim e projetos:
 - 💻 **Estudante de Análise e Desenvolvimento de Sistemas na FIAP**
 - 🤖 Co-fundador e desenvolvedor Fullstack no Grupo ARC. Trabalhando atualmente no aplicativo ViaMobility e em outros projetos que ainda são segredo.
-- 💼 Procurando por oportunidades Fullstack e/ou Front-End como freelancer, consultor ou por contrato.
-- Site ViaMobility: https://via-mobility-vercell-ybs9-git-main-csclementinos-projects.vercel.app
-- Site SolarMetrics: https://solarmetrics.siick.com.br
-- Site Conexão Anjo: [https://conexao-anjo-vercell.vercel.app/](https://conexao-anjo-vercell.vercel.app/TelaPrincipal)
+- 💼 Procurando por oportunidades Fullstack e/ou Front-End como freelancer, consultor ou por contrato (PJ/CLT).
+  
+- DadoDado - Dashboard e Site (Em andamento): https://dadodado.vercel.app
+- Site Grupo Arc: https://site.arcgroup.com.br
+- ÁvilaCred (Em andamento): https://avilacred.vercel.app
+- ViaMobility: https://viamobility.grouparc.com.br
+- SolarMetrics: https://solarmetrics.grouparc.com.br
+- Conexão Anjo: [https://conexao-anjo-vercell.vercel.app/](https://conexao-anjo-vercell.vercel.app/TelaPrincipal)
 
 
 ---
