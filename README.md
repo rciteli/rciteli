@@ -6,7 +6,7 @@
 - 💼 Procurando por oportunidades Fullstack e/ou Front-End como freelancer, consultor ou por contrato (PJ/CLT).
   
 - DadoDado - Dashboard e Site (Em andamento): https://dadodado.vercel.app
-- Site Grupo Arc: https://site.arcgroup.com.br
+- Site Grupo Arc: https://site.grouparc.com.br
 - ÁvilaCred (Em andamento): https://avilacred.vercel.app
 - ViaMobility: https://viamobility.grouparc.com.br
 - SolarMetrics: https://solarmetrics.grouparc.com.br
