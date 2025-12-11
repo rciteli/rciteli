@@ -4,10 +4,12 @@
 - 💻 **Estudante de Análise e Desenvolvimento de Sistemas na FIAP**
 - 🤖 Co-fundador e desenvolvedor Fullstack no Grupo ARC. Trabalhando atualmente no aplicativo ViaMobility e em outros projetos que ainda são segredo.
 - 💼 Procurando por oportunidades Fullstack e/ou Front-End como freelancer, consultor ou por contrato (PJ/CLT).
-  
-- DadoDado - Dashboard e Site (Em andamento): https://dadodado.vercel.app
+
+- **Veja o meu site/portfólio com meus projetos, currículo e serviços**: https://rafaeldesanzio.com.br/
+- BB Marketing Digital: https://www.bianca-balaciano.vercel.app
+- DadoDado Insights Estratégicos - Dashboard e Site: https://www.dadodado.com.br
 - Site Grupo Arc: https://site.grouparc.com.br
-- ÁvilaCred (Em andamento): https://avilacred.vercel.app
+- ÁvilaCred: https://avilacred.com.br
 - ViaMobility: https://viamobility.grouparc.com.br
 - SolarMetrics: https://solarmetrics.grouparc.com.br
 - Conexão Anjo: [https://conexao-anjo-vercell.vercel.app/](https://conexao-anjo-vercell.vercel.app/TelaPrincipal)
