@@ -1,8 +1,8 @@
 # 👋 - Portfolio de Rafael Nonato
 
 ### 👩‍💻 Sobre mim e projetos:
-- 💻 **Estudante de Análise e Desenvolvimento de Sistemas na FIAP**
-- 🤖 Co-fundador e desenvolvedor Fullstack no Grupo ARC. Trabalhando atualmente no aplicativo ViaMobility e em outros projetos que ainda são segredo.
+- 💻 **Estudante no último período (formação em 06/26) de Análise e Desenvolvimento de Sistemas na FIAP**
+- 🤖 Co-fundador e Desenvolvedor Fullstack na ARC Group e DADODADO Insights Estratégicos. 
 - 💼 Procurando por oportunidades Fullstack e/ou Front-End como freelancer, consultor ou por contrato (PJ/CLT).
 
 - **Veja o meu site/portfólio com meus projetos, currículo e serviços**: https://rafaeldesanzio.com.br/
