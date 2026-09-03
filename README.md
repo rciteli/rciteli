@@ -1,12 +1,15 @@
 # 👋 - Portfolio de Rafael Nonato
 
 ### 👩‍💻 Sobre mim e projetos:
-- 💻 **Estudante no último período (formação em 06/26) de Análise e Desenvolvimento de Sistemas na FIAP**
-- 🤖 Co-fundador e Desenvolvedor Fullstack na ARC Group e DADODADO Insights Estratégicos. 
+- 💻 **Desenvolvedor de Software Fullstack graduado em Análise e Desenvolvimento de Sistemas pela FIAP**
+- 🤖 Mais de 30 clientes atendidos. 
 - 💼 Procurando por oportunidades Fullstack e/ou Front-End como freelancer, consultor ou por contrato (PJ/CLT).
 
 - **Veja o meu site/portfólio com meus projetos, currículo e serviços**: https://rafaeldesanzio.com.br/
-- BB Marketing Digital: https://www.bianca-balaciano.vercel.app
+- Prefab Parlamento: https://www.prefabparlamento.com.br
+- GETIPI: https://www.getipi.com.br
+- AIPB - Livraria e Editora Restauração Nacional: https://www.aipb.com.br
+- BB Marketing Digital (conceitual): https://www.bianca-balaciano.vercel.app
 - DadoDado Insights Estratégicos - Dashboard e Site: https://www.dadodado.com.br
 - Site Grupo Arc: https://site.grouparc.com.br
 - ÁvilaCred: https://avilacred.com.br
@@ -27,14 +30,6 @@
 <img src="https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white" />
 <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
 <img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-</div>
-
----
-
-### 📊 GitHub Stats:
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rciteli&show_icons=true&theme=radical&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rciteli&layout=compact&langs_count=7&theme=radical" />
 </div>
 
 ---
